@@ -1,0 +1,2 @@
+https://tc39.es/ecma262/ - JavaScript Documentation and standards
+https://developer.mozilla.org/en-US/docs/Web/API - JavaScript Documentation
